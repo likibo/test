@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	$Author: Lanpu
+	$Date: 2017年2月17日 下午14:41:00
+	$Revision: 1.0
+	$Purpose: 
+-->
+<a:screen xmlns:a="http://www.aurora-framework.org/application">
+    <a:view><![CDATA[
+	]]></a:view>
+</a:screen>
