@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <a:screen xmlns:a="http://www.aurora-framework.org/application"/>
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-    $Author: jayce
-    $Date: 2017年2月16日 上午11:08:07
-    $Revision: 1.0
-    $Purpose: 
--->
-<a:screen xmlns:a="http://www.aurora-framework.org/application">
-    <a:view>
-    </a:view>
-</a:screen>
