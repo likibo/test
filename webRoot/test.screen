@@ -1,7 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 =======
 <?xml version="1.0" encoding="UTF-8"?>
 >>>>>>> refs/heads/T233
 <a:screen xmlns:a="http://www.aurora-framework.org/application"/>
+<<<<<<< HEAD
  
+=======
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<a:screen xmlns:a="http://www.aurora-framework.org/application"><![CDATA[
+]]></a:screen>
+>>>>>>> refs/heads/T233
+>>>>>>> branch 'test' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
