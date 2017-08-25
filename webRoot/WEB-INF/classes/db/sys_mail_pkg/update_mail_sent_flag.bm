@@ -14,4 +14,4 @@
                 end;]]></bm:update-sql>
         </bm:operation>
     </bm:operations>
-</bm:model>
+</bm:model> 
