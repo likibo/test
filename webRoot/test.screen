@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <<<<<<< HEAD
 <a:screen xmlns:a="http://www.aurora-framework.org/application"><![CDATA[
@@ -13,4 +14,8 @@
     <a:view>
     </a:view>
 </a:screen>
+>>>>>>> branch 'T233' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<a:screen xmlns:a="http://www.aurora-framework.org/application"/>
 >>>>>>> branch 'T233' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
