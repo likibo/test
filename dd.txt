@@ -1,6 +1,7 @@
 T02任务测试
 This is my conflict.  --by zhihao.
 twice.
-
+three.
+six.
 four.
 five. 
