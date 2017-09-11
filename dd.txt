@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 T02任务测试
 This is my conflict.  --by zhihao.
 twice.
@@ -18,4 +19,7 @@ five.
 =======
 - -
 齐威王
+>>>>>>> refs/heads/T23
+=======
+1234567890
 >>>>>>> refs/heads/T23
