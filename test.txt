@@ -5,13 +5,5 @@ www
 我要添加 ttt
 我不要添加ttt
 我特么就是要加ttt
-
-=======
-我要添加 ttt
-<<<<<<< HEAD
-我特么就是要加ttt
-=======
-我不要添加ttt
 就是不让你添加ttt，打我啊！
->>>>>>> branch 'test' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
->>>>>>> branch 'test' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
+
