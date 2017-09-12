@@ -2,12 +2,10 @@ ddd
 qqq
 www
 我要添加 ttt
-<<<<<<< HEAD
-我特么就是要加ttt
-=======
 我不要添加ttt
+我特么就是要加ttt
 就是不让你添加ttt，打我啊！
->>>>>>> branch 'test' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
+我特么就是要加ttttt
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     $Author: Weiqinglong  
@@ -94,4 +92,4 @@ www
         </a:screenBody>
     </a:view>
 </a:screen>
-
+我特么就是要加ttttttt
