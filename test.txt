@@ -2,8 +2,6 @@ ddd
 qqq
 www
 我要添加 ttt
-<<<<<<< HEAD
-我特么就是要加ttt
-=======
 我不要添加ttt
->>>>>>> branch 'test' of http://srmpms.chinacloudapp.cn/diffusion/T/test.git
+我特么就是要加ttt
+
