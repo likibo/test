@@ -3,7 +3,7 @@
     <a:view>
         <a:screenBody>
             <a:datePicker prompt="当前日期"/>
-            <a:numberField prompt="密码框12"/>
+            <a:numberField prompt="密码框qqqqqq"/>
         </a:screenBody>
     </a:view>
 </a:screen>
