@@ -19,7 +19,6 @@
         <bm:field name="reply_to" databaseType="VARCHAR2" datatype="java.lang.String" physicalName="REPLY_TO" prompt="SYS_MAIL_SERVER.REPLY_TO"/>
         <bm:field name="mail_signature" databaseType="VARCHAR2" datatype="java.lang.String" physicalName="MAIL_SIGNATURE" prompt="SYS_MAIL_SERVER.MAIL_SIGNATURE"/>
         <bm:field name="enabled_flag" databaseType="VARCHAR2" datatype="java.lang.String" physicalName="ENABLED_FLAG" prompt="SYS_MAIL_SERVER.ENABLED_FLAG"/>
-        <bm:field name="default_flag" databaseType="VARCHAR2" datatype="java.lang.String" physicalName="DEFAULT_FLAG" prompt="SYS_MAIL_SERVER.DEFAULT_FLAG"/>
     </bm:fields>
     <bm:features>
         <f:standard-who/>
