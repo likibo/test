@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dddttt two
 111222
 <?xml version="1.0" encoding="UTF-8"?>
@@ -134,3 +135,9 @@ dddttt two
         ]]></script>
     </a:view>
 </a:screen>
+=======
+灏辨槸涓嶈浣犳坊鍔爐tt锛屾墦鎴戝晩锛�
+poiojklmnjio
+2
+//bug2;
+>>>>>>> refs/heads/T1
