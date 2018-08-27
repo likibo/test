@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <a:screen xmlns:a="http://www.aurora-framework.org/application">
     <a:view>
-        <a:numberField allowDecimals="true" prompt="数字输入框"/>
-        <a:textField prompt="文本输入框"/>
+        <a:textField prompt="文本框输入"/>
     </a:view>
 </a:screen>

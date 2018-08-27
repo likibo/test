@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- $last_updated_date 2018-08-27
+     $last_updated_by kanjiahao-->
 <bm:model xmlns:bm="http://www.aurora-framework.org/schema/bm">
     <bm:operations>
         <bm:operation name="execute">
@@ -14,4 +16,4 @@
                 end;]]></bm:update-sql>
         </bm:operation>
     </bm:operations>
-</bm:model> 
+</bm:model>
