@@ -19,6 +19,8 @@
                  var document_line=$('api_document_line_ds').getAll();
                  var html = '';
                  var header = '';
+                 var a='';
+                 var b='';
                  var d = document.getElementById('content1');
                  var h = document.getElementById('header');
                  if(document_line.length !=0)
