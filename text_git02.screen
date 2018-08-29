@@ -3,5 +3,6 @@
     <a:view>
         <a:textField prompt="文本框输入"/>
         <a:comboBox prompt="aaaa"/>
+        <a:datePicker/>
     </a:view>
 </a:screen>
