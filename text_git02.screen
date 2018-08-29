@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <a:screen xmlns:a="http://www.aurora-framework.org/application">
     <a:view>
+        <a:button/>
         <a:textField prompt="文本框输入"/>
     </a:view>
 </a:screen>
