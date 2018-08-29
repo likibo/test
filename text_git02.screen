@@ -6,5 +6,6 @@
         <a:comboBox prompt="aaaa"/>
         <a:datePicker/>
         <a:form/>
+        <a:formToolBar/>
     </a:view>
 </a:screen>
