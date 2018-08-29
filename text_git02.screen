@@ -3,5 +3,6 @@
     <a:view>
         <a:button/>
         <a:textField prompt="文本框输入"/>
+        <a:checkBox/>
     </a:view>
 </a:screen>
