@@ -2,5 +2,6 @@
 <a:screen xmlns:a="http://www.aurora-framework.org/application">
     <a:view>
         <a:textField prompt="文本框输入"/>
+        <a:comboBox prompt="aaaa"/>
     </a:view>
 </a:screen>
