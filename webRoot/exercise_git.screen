@@ -3,5 +3,6 @@
     <a:view>
         <a:numberField allowDecimals="true" prompt="数字输入框"/>
         <a:textField prompt="文本输入框"/>
+        <a:textField prompt="文本输入框1"/>
     </a:view>
 </a:screen>
