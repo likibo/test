@@ -1,26 +1,2 @@
-<<<<<<< HEAD
-T02任务测试
-This is my conflict.  --by zhihao.
-twice.
-three.
-six.
-four.
-five. 
+
 111
-=======
-123
-111
-<<<<<<< HEAD
-222
-333
-444
-555
-666
-=======
-- -
-齐威王
->>>>>>> refs/heads/T23
-=======
-1234567890
->>>>>>> refs/heads/T23
-嘿嘿嘿
