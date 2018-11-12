@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 
 111
+=======
+
+T02任务测试
+This is my conflict.  --by zhihao.
+twice.
+three.
+<<<<<<< HEAD
+six.
+随便写
+再来一次
+=======
+six.
+123
+111
+>>>>>>> refs/heads/T123
+>>>>>>> refs/heads/T233
