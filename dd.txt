@@ -8,6 +8,7 @@ This is my conflict.  --by zhihao.
 twice.
 three.
 <<<<<<< HEAD
+<<<<<<< HEAD
 six.
 随便写
 再来一次
@@ -17,3 +18,6 @@ six.
 111
 >>>>>>> refs/heads/T123
 >>>>>>> refs/heads/T233
+=======
+111
+>>>>>>> refs/heads/T3412
