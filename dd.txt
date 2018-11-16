@@ -1,8 +1,6 @@
-T02任务测试
-This is my conflict.  --by zhihao.
-twice.
-three.
 six.
 123
+<<<<<<< HEAD
 111
 zyl
+
